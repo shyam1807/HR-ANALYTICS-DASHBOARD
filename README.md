@@ -3,7 +3,6 @@
 
 This project presents a comprehensive *HR Analytics Dashboard* that analyzes employee attrition trends and workforce insights using real-world HR data. The dashboard enables data-driven decision-making by visualizing patterns in attrition across age, education, salary slabs, tenure, and job roles.
 
-![HR Analytics Dashboard](./IMG20250805232353.jpg)
 
 ---
 
